@@ -10,7 +10,7 @@ Application will run on port 8000. this can be change from propeties file
 
 end point : localhost:8000/
 Data to be uploaded from Resouces folder
-API Details
+### API Details
 
 url : localhost:8000/uploadTradeData, 
 Type : POST
@@ -28,7 +28,7 @@ Type : GET
 url : localhost:8000/getIntraDayForShare/{id}, 
 Type : GET
 
-How to Run :
+### How to Run :
 Clone and Extract TAS folder
 Make sure to have spring and maven setup in your machine.
 use "mvn clean install"
